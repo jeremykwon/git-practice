@@ -1,3 +1,4 @@
 1. 테스트 메시지 입니다.
 2. feature1 - first commit
 3. feature1 - second commit
+3. feature2 - fistt commit
