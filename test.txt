@@ -4,3 +4,4 @@
 4. feature2 - second commit
 5. feature2 - third commit
 6. feature2 - fourth commit
+7. feature2 - fifth commit
