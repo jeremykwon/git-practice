@@ -1,7 +1,2 @@
 1. 테스트 메시지 입니다.
-2. feature1 - first commit
-3. feature2 - fisrt commit
-4. feature2 - second commit
-5. feature2 - third commit
-6. feature2 - fourth commit
-7. feature2 - fifth commit
+2. F2 - 첫번째 커밋
